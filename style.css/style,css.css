@@ -1,0 +1,39 @@
+
+body {
+    
+    background-color: rgb(202, 248, 158);
+    
+    
+}
+hr {
+
+    color: rgba(72, 24, 204, 0.336);
+    border-style: none;
+    border-top-style: dotted;
+    width: 90%;
+    border-width: 3px;
+}
+.photo {
+
+    height: 200px;
+    width: 200px;
+}
+h1{
+
+    color: gold;
+}
+h2{
+
+    color: rgb(255, 201, 63);
+}
+h3{
+
+    color: darkorange;
+}
+.name{
+
+    background-color: rgba(90, 248, 76, 0.144);
+    color: black;
+    width: fit-content;
+    
+}
